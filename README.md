@@ -76,3 +76,17 @@ bookingms/
 ├── database/            # Migrations, Seeders
 ├── .env                 # Environment configuration
 └── composer.json        # PHP dependencies
+🧑‍💻 Author
+Anil Kumar Modugula
+GitHub Profile
+
+📄 License
+This project is open-source and available under the MIT License.
+
+yaml
+Copy
+Edit
+
+---
+
+Would you like a **simpler version** or should I adjust it to fit a **different tech stack** (e.g., not Laravel)?
